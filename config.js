@@ -46,30 +46,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/AryBotz'
+global.sig = 'AryBotz'
 global.sgh = 'https://github.com/arybotz'
 global.sgc = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk'
 global.sdc = 'https://github.com/arybotz'
 global.snh = 'https://youtube.com/c/AryBotz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085762008398'
+global.pdana = 'Gaada bnag :v'
 global.povo = 'Gaada bang :v'
 global.pgopay = 'Gaada bang :v'
-global.ppulsa = '085762008398'
-global.ppulsa2 = '085762008398'
+global.ppulsa = '083183321692'
+global.ppulsa2 = 'Gaada bang :v'
 global.psaweria = 'https://saweria.co/arybotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
-global.namebot = 'AryBotz Ofc'
-global.nameown = 'X Ary Offcial'
+global.nomorbot = '62895386445819'
+global.nomorown = '6283183321692'
+global.namebot = '✰𝔹𝕆𝕋 𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
+global.nameown = '✰𝙱𝚢𝚎✰'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281264038909', 'X Ary Offcial', true]
+  ['6283183321692', 'X Ary Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 AryBotz |Ary Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 Ary Botz 乂     '
-global.wm3 = 'Ary Botz |ᗪ'
+global.wm = '「 AryBotz | Bye Offcial⁩ 」' //Main Watermark
+global.wm2 = '    乂 Bye Botz 乂     '
+global.wm3 = 'Bye Botz |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'AryBotz-MD✯✯✯✯✯ '
+global.titlebot = 'ByrBotz-MD✯✯✯✯✯ '
 global.author = global.wm
 
 
@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '\n'
-global.stickauth = `乂 YT:AryBotz.|ᗪ \nig AryBotz.id`
+global.stickauth = `乂 Jan lupa donasi:Botz.|ᗪ \nig AryBotz.id`
 
 global.multiplier = 38 // The higher, The harder levelup
 
